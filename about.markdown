@@ -1,18 +1,69 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "about us"
+date: 2018-06-02
+permalink: /about-us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Math Relish について
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### 方向性
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+数理関連の基礎的な事柄から発展的な事柄まで，幅広く投稿していきます． また不定期に有志で輪講を行い理解を深めています． その一端を伝えることで文化レベルを少しでも向上できれば幸いです． 現代の数理科学は量と質，そして資金面で，とても高度なものになりました． 高度な専門化は今後もより一層行われ，激しい競争の中で社会への還元は稀なものとなっていくでしょう． 「余裕の無さ」によって数理の豊かで普遍な価値が，多くの人々に理解されることなく日々埋もれていっています． そう，少しでも，少しでもこの世界の素晴らしさを肴に数理を語ってみたいと思います．
 
+### 記事の構成
 
-[jekyll-organization]: https://github.com/jekyll
+数理関連の記事は以下の構成で投稿しています．
+
+1. 着想や背景
+2. 定義もしくは主題
+3. コメント
+4. 例
+5. 参考
+
+定積分計算の記事は以下の構成で投稿しています．
+
+1. 定積分の問題番号
+2. 使用するトリック
+3. 導出
+4. 感想戦
+5. 参考
+
+## 収益
+
+収益はより良質な記事を量産する活動資金にあてます．
+
+### 物販部
+
+数理関連のアイテムを下記で販売しています． 売れ行きによってより高品質で面白いアイテムを作製してご提供していきます．
+
+[Math Relish 物販部](https://mathrelish.booth.pm/)
+
+### アマゾン・アソシエイトに参加しています
+
+Math Relish (https://mathrelish.com) は，amazon.co.jpを宣伝しリンクすることによって，サイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである，Amazonアソシエイト・プログラムの参加者です．
+
+### Google Adsenseに参加しています
+
+Math Relish (https://mathrelish.com) では広告として Google AdSense を使用しています． Google Adsense はデータを収集するために，Cookie やウェブビーコンを使用して広告配信をしています．
+
+Cookie を使用することにより，インターネットにおけるご自身のサイトや他のサイトへのアクセス情報に基づいてユーザーに広告を配信することが可能になります．
+
+情報提供を望まない場合は，Google のポリシーと原則のページより，Cookie オプションを使用しないように設定することができます．
+
+### アクセス解析ツールについて
+
+Math Relish (https://mathrelish.com) は，Google によるアクセス解析ツール「Googleアナリティクス」を利用しています．
+
+この Google アナリティクスはトラフィックデータの収集のために Cookie を使用しています． このトラフィックデータは匿名で収集されており，個人を特定するものではありません．
+
+この機能は Cookie を無効にすることで収集を拒否することが出来ますので，お使いのブラウザの設定をご確認ください．
+
+この規約に関して，詳しくは[ここをクリック](https://www.google.com/analytics/terms/jp.html)してください．
+
+## 免責事項
+
+1. 当サイトの内容により何らかの損害・トラブル等があっても，当方は賠償・保障責任は一切負いません．ご了承ください．
+2. 当サイトに掲載されている内容や図の「無断転載」「無断使用」「複製」を禁止します．
+3. 当サイトの記事の部分的な引用や印刷による配布を行う場合は，記事へのリンクもしくは URL を明記してください．
+4. 当サイトへのリンクは自由ですが，できるだけトップページ (https://mathrelish.com) にリンクを張ってください．特に報告の義務はありません．

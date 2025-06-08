@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+## 整理中
+
+<ul>
+  {% assign doc_pages = site.pages | where_exp: "p", "p.url contains '/articles/'" %}
+  {% for page in doc_pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
